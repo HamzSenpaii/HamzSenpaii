@@ -29,7 +29,7 @@ I am a creative beginner developer currently learning fullstack development and 
 
 [![Tools](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
-<div style="border: 1px solid #404040; border-radius: 5px;">
+<div style="border: 1px solid #555555; border-radius: 5px;">
 <img src="https://raw.githubusercontent.com/HamzSenpaii/HamzSenpaii/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
