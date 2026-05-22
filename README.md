@@ -9,21 +9,10 @@ I am a creative beginner developer currently learning fullstack development and 
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/hamz_senpaii">
-    <img src="https://img.shields.io/badge/Instagram-EA4C89?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.tiktok.com/@hamz_senpaii">
-    <img src="https://img.shields.io/badge/TikTok-2A2A2A?style=flat&logo=tiktok&logoColor=white"/>
-  </a>
-
-  <a href="https://youtube.com/@hamzsenpaii">
-    <img src="https://img.shields.io/badge/YouTube-FF4B4B?style=flat&logo=youtube&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/HamzSenpaii">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.instagram.com/hamz_senpaii"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@hamz_senpaii"><img src="https://img.shields.io/badge/TikTok-2A2A2A?style=flat&logo=tiktok&logoColor=white"/></a>
+<a href="https://youtube.com/@hamzsenpaii"><img src="https://img.shields.io/badge/YouTube-FF4B4B?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/HamzSenpaii"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -48,7 +37,15 @@ I am a creative beginner developer currently learning fullstack development and 
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HamzSenpaii&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=HamzSenpaii&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HamzSenpaii&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="left">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=HamzSenpaii&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HamzSenpaii&theme=one_dark_pro&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamzSenpaii&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
