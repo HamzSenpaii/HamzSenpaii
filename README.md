@@ -15,29 +15,25 @@ I am a creative beginner developer currently learning fullstack development and 
 <a href="https://github.com/HamzSenpaii"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
----
+<h2 id="tech-stack" align="left">Tech Stack</h2>
 
-<h2 align="left">Technologies I Master</h2>
-
-<h3 align="left">Programming Languages</h3>
+<h3 id="programming-language" align="left">Programming Languages</h3>
 
 [![Languages](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-<h3 align="left">Frameworks & Libraries</h3>
+<h3 id="frameworks-&-libraries" align="left">Frameworks & Libraries</h3>
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=bootstrap,tailwindcss)](https://skillicons.dev)
 
-<h3 align="left">Tools I Use</h3>
+<h3 id="tools-i-use" align="left">Tools I Use</h3>
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
----
-
+<div style="border: 1px solid #404040; border-radius: 5px;">
 <img src="https://raw.githubusercontent.com/HamzSenpaii/HamzSenpaii/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
----
-
-<h2 align="left">GitHub Stats</h2>
+<h2 id="github-stats" align="left">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=HamzSenpaii&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false"/>
