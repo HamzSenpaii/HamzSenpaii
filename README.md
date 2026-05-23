@@ -10,7 +10,7 @@ I am a creative beginner developer currently learning fullstack development and 
 
 <p align="left">
 <a href="https://www.instagram.com/hamz_senpaii"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@hamz_senpaii"><img src="https://img.shields.io/badge/TikTok-2A2A2A?style=flat&logo=tiktok&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@hamzsenpaii"><img src="https://img.shields.io/badge/TikTok-2A2A2A?style=flat&logo=tiktok&logoColor=white"/></a>
 <a href="https://youtube.com/@hamzsenpaii"><img src="https://img.shields.io/badge/YouTube-FF4B4B?style=flat&logo=youtube&logoColor=white"/></a>
 <a href="https://github.com/HamzSenpaii"><img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white"/></a>
 </p>
